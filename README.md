@@ -1,6 +1,6 @@
 # [SuikaCraft](http://suikacraft.com)
 
-An upcoming mod for Minecraft that will add many new tree species and other flora.
+Including an upcoming datapack for the TerraForged mod featuring our Old-Growth mod.
 
 The Isabella texture packs have been moved to https://github.com/yurisuika/Isabella now.
 
