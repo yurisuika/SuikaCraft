@@ -1,8 +1,18 @@
 # [SuikaCraft](http://suikacraft.com)
 
-Including an upcoming datapack for the TerraForged mod featuring our Old-Growth mod.
+Including an upcoming datapack for the TerraForged mod featuring our Sap mod!
 
 The Isabella texture packs have been moved to https://github.com/yurisuika/Isabella now.
+
+## Datapacks
+
+Datapacks available as .ZIP archives ready to download!
+
+###### SUIKACRAFT
+
+Data for the TerraForged mod that overhauls flora with our Sap mod! WIP!
+
+* [*`SuikaCraft`*](https://github.com/yurisuika/SuikaCraft/raw/master/Archives/SuikaCraft.zip)
 
 ## Links
 

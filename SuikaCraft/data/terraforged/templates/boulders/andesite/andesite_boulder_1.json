@@ -1,0 +1,11 @@
+{
+  "type": "any",
+  "name": "terraforged:andesite_boulder_1",
+  "paths": [
+    "terraforged:boulders/andesite/1"
+  ],
+  "config": {
+    "extend_base": 2,
+    "check_bounds": true
+  }
+}

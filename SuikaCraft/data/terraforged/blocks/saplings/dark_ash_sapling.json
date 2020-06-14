@@ -1,0 +1,12 @@
+{
+  "type": "terraforged:sapling",
+  "sapling": "suikacraft:willow_sapling",
+  "normal": {
+    "terraforged:willow_tree_2": {
+      "weight": 2
+    },
+    "terraforged:willow_tree_3": {
+      "weight": 4
+    }
+  }
+}

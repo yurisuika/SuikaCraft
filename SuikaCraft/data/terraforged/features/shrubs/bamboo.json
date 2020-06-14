@@ -1,0 +1,50 @@
+{
+  "biomes": [
+    "minecraft:bamboo_jungle",
+    "minecraft:bamboo_jungle_hills"
+  ],
+  "match": [
+    [
+      "minecraft:grass"
+    ]
+  ],
+"after": {
+  "name": "minecraft:decorated",
+  "config": {
+    "feature": {
+      "name": "terraforged:context_selector",
+      "config": {
+        "features": [
+          {
+            "feature": {
+              "name": "minecraft:bamboo",
+              "config": {}
+            },
+            "context": {
+              "chance": 0.5,
+              "elevation": {
+                "from": 0.1,
+                "to": 0.0
+              },
+              "biome": {
+                "from": 0,
+                "to": 0.2
+              }
+            }
+          }
+        ]
+      }
+    },
+    "decorator": {
+      "name": "terraforged:poisson_surface",
+      "config": {
+        "radius": 2,
+        "biome_fade": 0.25,
+        "density_noise_scale": 300,
+        "density_noise_min": 0,
+        "density_noise_max": 2.5
+      }
+    }
+  }
+}
+}

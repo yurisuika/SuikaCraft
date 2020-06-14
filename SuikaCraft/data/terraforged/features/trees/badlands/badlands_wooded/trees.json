@@ -1,0 +1,319 @@
+{
+  "biomes": [
+    "minecraft:wooded_badlands_plateau",
+    "minecraft:modified_wooded_badlands_plateau"
+  ],
+  "match": [
+    [
+      "minecraft:oak_log",
+      "minecraft:oak_leaves"
+    ]
+  ],
+  "replace": {
+    "name": "minecraft:decorated",
+    "config": {
+      "feature": {
+        "name": "terraforged:context_selector",
+        "config": {
+          "features": [
+            {
+              "feature": {
+                "name": "terraforged:template",
+                "config": {
+                  "template": "terraforged:oak_tree_2"
+                }
+              },
+              "context": {
+                "chance": 0.2,
+                "elevation": {
+                  "from": 0.4,
+                  "to": 0.0
+                },
+                "biome": {
+                  "from": 0,
+                  "to": 0.2
+                }
+              }
+            },
+            {
+              "feature": {
+                "name": "terraforged:template",
+                "config": {
+                  "template": "terraforged:oak_tree_3"
+                }
+              },
+              "context": {
+                "chance": 0.6,
+                "elevation": {
+                  "from": 0.35,
+                  "to": 0.0
+                },
+                "biome": {
+                  "from": 0,
+                  "to": 0.2
+                }
+              }
+            },
+            {
+              "feature": {
+                "name": "terraforged:template",
+                "config": {
+                  "template": "terraforged:birch_tree_3"
+                }
+              },
+              "context": {
+                "chance": 0.1,
+                "elevation": {
+                  "from": 0.35,
+                  "to": 0.0
+                },
+                "biome": {
+                  "from": 0,
+                  "to": 0.2
+                }
+              }
+            },
+            {
+              "feature": {
+                "name": "terraforged:template",
+                "config": {
+                  "template": "terraforged:birch_tree_4"
+                }
+              },
+              "context": {
+                "chance": 0.1,
+                "elevation": {
+                  "from": 0.3,
+                  "to": 0.05
+                },
+                "biome": {
+                  "from": 0,
+                  "to": 0.2
+                }
+              }
+            },
+            {
+              "feature": {
+                "name": "terraforged:template",
+                "config": {
+                  "template": "terraforged:aspen_tree_2"
+                }
+              },
+              "context": {
+                "chance": 0.05,
+                "elevation": {
+                  "from": 0.4,
+                  "to": 0.1
+                },
+                "biome": {
+                  "from": 0,
+                  "to": 0.2
+                }
+              }
+            },
+            {
+              "feature": {
+                "name": "terraforged:template",
+                "config": {
+                  "template": "terraforged:aspen_tree_3"
+                }
+              },
+              "context": {
+                "chance": 0.1,
+                "elevation": {
+                  "from": 0.35,
+                  "to": 0.1
+                },
+                "biome": {
+                  "from": 0,
+                  "to": 0.2
+                }
+              }
+            },
+            {
+              "feature": {
+                "name": "terraforged:template",
+                "config": {
+                  "template": "terraforged:aspen_tree_4"
+                }
+              },
+              "context": {
+                "chance": 0.1,
+                "elevation": {
+                  "from": 0.3,
+                  "to": 0.125
+                },
+                "biome": {
+                  "from": 0,
+                  "to": 0.2
+                }
+              }
+            },
+            {
+              "feature": {
+                "name": "terraforged:template",
+                "config": {
+                  "template": "terraforged:aspen_tree_5"
+                }
+              },
+              "context": {
+                "chance": 0.05,
+                "elevation": {
+                  "from": 0.25,
+                  "to": 0.15
+                },
+                "biome": {
+                  "from": 0,
+                  "to": 0.2
+                }
+              }
+            },
+            {
+              "feature": {
+                "name": "terraforged:template",
+                "config": {
+                  "template": "terraforged:fir_tree_2"
+                }
+              },
+              "context": {
+                "chance": 0.2,
+                "elevation": {
+                  "from": 0.4,
+                  "to": 0.0
+                },
+                "biome": {
+                  "from": 0,
+                  "to": 0.2
+                }
+              }
+            },
+            {
+              "feature": {
+                "name": "terraforged:template",
+                "config": {
+                  "template": "terraforged:fir_tree_3"
+                }
+              },
+              "context": {
+                "chance": 0.2,
+                "elevation": {
+                  "from": 0.35,
+                  "to": 0.0
+                },
+                "biome": {
+                  "from": 0,
+                  "to": 0.2
+                }
+              }
+            },
+            {
+              "feature": {
+                "name": "terraforged:template",
+                "config": {
+                  "template": "terraforged:fir_tree_4"
+                }
+              },
+              "context": {
+                "chance": 0.05,
+                "elevation": {
+                  "from": 0.3,
+                  "to": 0.025
+                },
+                "biome": {
+                  "from": 0,
+                  "to": 0.2
+                }
+              }
+            },
+            {
+              "feature": {
+                "name": "terraforged:template",
+                "config": {
+                  "template": "terraforged:fir_tree_5"
+                }
+              },
+              "context": {
+                "chance": 0.01,
+                "elevation": {
+                  "from": 0.25,
+                  "to": 0.05
+                },
+                "biome": {
+                  "from": 0,
+                  "to": 0.2
+                }
+              }
+            },
+            {
+              "feature": {
+                "name": "terraforged:template",
+                "config": {
+                  "template": "terraforged:pine_tree_3"
+                }
+              },
+              "context": {
+                "chance": 0.2,
+                "elevation": {
+                  "from": 0.35,
+                  "to": 0.0
+                },
+                "biome": {
+                  "from": 0,
+                  "to": 0.2
+                }
+              }
+            },
+            {
+              "feature": {
+                "name": "terraforged:template",
+                "config": {
+                  "template": "terraforged:pine_tree_4"
+                }
+              },
+              "context": {
+                "chance": 0.05,
+                "elevation": {
+                  "from": 0.3,
+                  "to": 0.025
+                },
+                "biome": {
+                  "from": 0,
+                  "to": 0.2
+                }
+              }
+            },
+            {
+              "feature": {
+                "name": "terraforged:template",
+                "config": {
+                  "template": "terraforged:pine_tree_5"
+                }
+              },
+              "context": {
+                "chance": 0.01,
+                "elevation": {
+                  "from": 0.25,
+                  "to": 0.05
+                },
+                "biome": {
+                  "from": 0,
+                  "to": 0.2
+                }
+              }
+            }
+          ]
+        }
+      },
+      "decorator": {
+        "name": "terraforged:poisson_surface",
+        "config": {
+          "radius": 20,
+          "biome_fade": 0.25,
+          "density_noise_scale": 300,
+          "density_noise_min": 0,
+          "density_noise_max": 2.5
+        }
+      }
+    }
+  }
+}

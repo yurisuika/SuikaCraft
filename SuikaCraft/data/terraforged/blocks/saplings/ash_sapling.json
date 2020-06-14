@@ -1,0 +1,12 @@
+{
+  "type": "terraforged:sapling",
+  "sapling": "suikacraft:ash_sapling",
+  "normal": {
+    "terraforged:ash_tree_3": {
+      "weight": 4
+    },
+    "terraforged:ash_tree_4": {
+      "weight": 3
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "tree",
+  "name": "terraforged:aspen_log_1",
+  "paths": [
+    "terraforged:trees/aspen/log/1"
+  ],
+  "config": {
+    "extend_base": 0,
+    "check_bounds": true
+  },
+  "decorators": {
+    "minecraft:beehive": {
+      "probability": 0.002
+    }
+  }
+}

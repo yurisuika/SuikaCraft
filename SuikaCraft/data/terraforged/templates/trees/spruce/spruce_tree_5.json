@@ -1,0 +1,11 @@
+{
+  "type": "tree",
+  "name": "terraforged:spruce_tree_5",
+  "paths": [
+    "terraforged:trees/spruce/tree/5"
+  ],
+  "config": {
+    "extend_base": 3,
+    "check_bounds": true
+  }
+}

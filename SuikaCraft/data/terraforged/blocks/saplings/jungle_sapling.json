@@ -1,0 +1,18 @@
+{
+  "type": "terraforged:sapling",
+  "sapling": "minecraft:jungle_sapling",
+  "normal": {
+    "terraforged:jungle_tree_2": {
+      "weight": 2
+    },
+    "terraforged:jungle_tree_3": {
+      "weight": 4
+    },
+    "terraforged:jungle_tree_4": {
+      "weight": 3
+    },
+    "terraforged:jungle_tree_5": {
+      "weight": 1
+    }
+  }
+}

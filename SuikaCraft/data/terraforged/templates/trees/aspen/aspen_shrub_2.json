@@ -1,0 +1,11 @@
+{
+  "type": "tree",
+  "name": "terraforged:aspen_shrub_2",
+  "paths": [
+    "terraforged:trees/aspen/shrub/2"
+  ],
+  "config": {
+    "extend_base": 3,
+    "check_bounds": true
+  }
+}
