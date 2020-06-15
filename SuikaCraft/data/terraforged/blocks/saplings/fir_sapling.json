@@ -1,6 +1,6 @@
 {
   "type": "terraforged:sapling",
-  "sapling": "suikacraft:fir_sapling",
+  "sapling": "sap:fir_sapling",
   "normal": {
     "terraforged:fir_tree_2": {
       "weight": 2

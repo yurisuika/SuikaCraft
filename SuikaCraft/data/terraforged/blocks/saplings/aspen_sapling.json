@@ -1,6 +1,6 @@
 {
   "type": "terraforged:sapling",
-  "sapling": "suikacraft:aspen_sapling",
+  "sapling": "sap:aspen_sapling",
   "normal": {
     "terraforged:aspen_tree_2": {
       "weight": 2

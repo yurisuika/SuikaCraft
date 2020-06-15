@@ -1,6 +1,6 @@
 {
   "type": "terraforged:sapling",
-  "sapling": "suikacraft:redwood_sapling",
+  "sapling": "sap:redwood_sapling",
   "normal": {
     "terraforged:redwood_tree_3": {
       "weight": 4

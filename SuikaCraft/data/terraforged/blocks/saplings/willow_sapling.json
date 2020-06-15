@@ -1,6 +1,6 @@
 {
   "type": "terraforged:sapling",
-  "sapling": "suikacraft:dark_ash_sapling",
+  "sapling": "sap:dark_ash_sapling",
   "normal": {
     "terraforged:dark_ash_tree_3": {
       "weight": 4
