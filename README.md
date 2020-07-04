@@ -1,27 +1,29 @@
 # [SuikaCraft](http://suikacraft.com)
 
-Including an upcoming datapack for the TerraForged mod featuring our Sap mod!
+Datapacks and other files for the *[SuikaCraft](https://github.com/yurisuika/SuikaCraft)* Minecraft server!
 
-The Isabella texture packs have been moved to https://github.com/yurisuika/Isabella now.
+The Isabella texture packs have been moved to the *[Isabella](https://github.com/yurisuika/Isabella)* repository now.
 
-## Datapacks
+## DOWNLOADS
+
+### Datapacks
 
 Datapacks available as .ZIP archives ready to download!
 
-###### SUIKACRAFT
+#### SuikaCraft
 
-Data for the TerraForged mod that overhauls flora with our Sap mod! WIP!
+A datapack for *[TerraForged](https://github.com/TerraForged/TerraForged)* using our *[Sap](https://github.com/yurisuika/Sap)* mod!
 
-* [*`SuikaCraft`*](https://github.com/yurisuika/SuikaCraft/raw/master/Archives/SuikaCraft.zip)
+##### 1.15 - [*`Nothing yet!`*]()
 
-## Links
+## LINKS
 
-###### SERVERS
+Get all the hot tips and tricks here!
 
-Join *`play.suikacraft.com`* for the main SuikaCraft server!
+#### SERVERS
 
-Join *`smp.suikacraft.com`* for our latest vanilla snapshot server!
+Join *`play.suikacraft.com`* to play on SuikaCraft today!
 
-###### DISCORD
+#### DISCORD
 
-The one and only! Join the *[SuikaCraft Discord](https://discord.gg/0zdNEkQle7Qg9C1H)* to find the latest discussion on the resourcepack and server or just to chat!
+The one and only! Join the *[SuikaCraft Discord](https://discord.gg/0zdNEkQle7Qg9C1H)* to find the latest discussion on the resource pack and server or just to chat!
