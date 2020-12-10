@@ -4,6 +4,8 @@ Datapacks and other files for the *[SuikaCraft](https://github.com/yurisuika/Sui
 
 The Isabella texture packs have been moved to the *[Isabella](https://github.com/yurisuika/Isabella)* repository now.
 
+Please note that this datapack is currently out of date for the *[Sap](https://github.com/yurisuika/Sap)* mod! Only version 0.1.0 will work with this datapack.
+
 ## DOWNLOADS
 
 ### Datapacks
