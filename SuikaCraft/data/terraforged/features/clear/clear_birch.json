@@ -1,0 +1,30 @@
+{
+  "match": [
+    [
+      "minecraft:birch_log",
+      "minecraft:birch_leaves"
+    ]
+  ],
+  "replace": {
+    "name": "minecraft:decorated",
+    "config": {
+      "feature": {
+        "name": "terraforged:context_selector",
+        "config": {
+          "features": [
+          ]
+        }
+      },
+      "decorator": {
+        "name": "terraforged:poisson_surface",
+        "config": {
+          "radius": 0,
+          "biome_fade": 0.0,
+          "density_noise_scale": 0,
+          "density_noise_min": 0,
+          "density_noise_max": 0
+        }
+      }
+    }
+  }
+}

@@ -1,10 +1,14 @@
 # [SuikaCraft](http://suikacraft.com)
 
-Datapacks and other files for the *[SuikaCraft](https://github.com/yurisuika/SuikaCraft)* Minecraft server!
+Datapack for the *[SuikaCraft](https://github.com/yurisuika/SuikaCraft)* Minecraft server!
 
 The Isabella texture packs have been moved to the *[Isabella](https://github.com/yurisuika/Isabella)* repository now.
 
-Please note that this datapack is currently out of date for the *[Sap](https://github.com/yurisuika/Sap)* mod! Only version 0.1.0 will work with this datapack.
+## CHANGELOG
+
+##### 0.0.1
+
+* Initial release for Sap 0.2.4!
 
 ## DOWNLOADS
 
@@ -16,7 +20,9 @@ Datapacks available as .ZIP archives ready to download!
 
 A datapack for *[TerraForged](https://github.com/TerraForged/TerraForged)* using our *[Sap](https://github.com/yurisuika/Sap)* mod!
 
-##### 1.15 - [*`Nothing yet!`*]()
+To use currently you must replace the data in the mod JAR with the data from this pack.
+
+##### 1.15 - [*`0.0.1`*](https://github.com/yurisuika/SuikaCraft/releases/tag/0.0.1)
 
 ## LINKS
 

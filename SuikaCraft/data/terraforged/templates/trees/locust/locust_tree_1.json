@@ -1,0 +1,11 @@
+{
+  "type": "tree",
+  "name": "terraforged:locust_tree_1",
+  "paths": [
+    "terraforged:trees/locust/tree/1"
+  ],
+  "config": {
+    "extend_base": 3,
+    "check_bounds": true
+  }
+}

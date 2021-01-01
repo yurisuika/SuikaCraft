@@ -1,0 +1,15 @@
+{
+  "type": "terraforged:sapling",
+  "sapling": "sap:mesquite_sapling",
+  "normal": {
+    "terraforged:mesquite_tree_1": {
+      "weight": 3
+    },
+    "terraforged:mesquite_tree_2": {
+      "weight": 2
+    },
+    "terraforged:mesquite_tree_3": {
+      "weight": 1
+    }
+  }
+}

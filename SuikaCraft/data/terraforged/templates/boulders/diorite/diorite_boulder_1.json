@@ -1,5 +1,5 @@
 {
-  "type": "any",
+  "type": "tree",
   "name": "terraforged:diorite_boulder_1",
   "paths": [
     "terraforged:boulders/diorite/1"

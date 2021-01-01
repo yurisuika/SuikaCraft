@@ -1,0 +1,15 @@
+{
+  "type": "terraforged:sapling",
+  "sapling": "sap:cypress_sapling",
+  "normal": {
+    "terraforged:cypress_tree_1": {
+      "weight": 3
+    },
+    "terraforged:cypress_tree_2": {
+      "weight": 2
+    },
+    "terraforged:cypress_tree_3": {
+      "weight": 1
+    }
+  }
+}

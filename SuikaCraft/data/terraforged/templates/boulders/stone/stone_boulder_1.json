@@ -1,5 +1,5 @@
 {
-  "type": "any",
+  "type": "tree",
   "name": "terraforged:stone_boulder_1",
   "paths": [
     "terraforged:boulders/stone/1"

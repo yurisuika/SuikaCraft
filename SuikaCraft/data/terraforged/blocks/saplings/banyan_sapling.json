@@ -1,0 +1,15 @@
+{
+  "type": "terraforged:sapling",
+  "sapling": "minecraft:jungle_sapling",
+  "normal": {
+    "terraforged:banyan_tree_1": {
+      "weight": 3
+    },
+    "terraforged:banyan_tree_2": {
+      "weight": 2
+    },
+    "terraforged:banyan_tree_3": {
+      "weight": 1
+    }
+  }
+}

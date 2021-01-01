@@ -1,0 +1,11 @@
+{
+  "type": "tree",
+  "name": "terraforged:cinnamon_tree_1",
+  "paths": [
+    "terraforged:trees/cinnamon/tree/1"
+  ],
+  "config": {
+    "extend_base": 3,
+    "check_bounds": true
+  }
+}

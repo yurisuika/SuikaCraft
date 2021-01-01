@@ -2,16 +2,13 @@
   "type": "terraforged:sapling",
   "sapling": "minecraft:spruce_sapling",
   "normal": {
+    "terraforged:spruce_tree_1": {
+      "weight": 3
+    },
     "terraforged:spruce_tree_2": {
       "weight": 2
     },
     "terraforged:spruce_tree_3": {
-      "weight": 4
-    },
-    "terraforged:spruce_tree_4": {
-      "weight": 3
-    },
-    "terraforged:spruce_tree_5": {
       "weight": 1
     }
   }

@@ -2,16 +2,13 @@
   "type": "terraforged:sapling",
   "sapling": "sap:aspen_sapling",
   "normal": {
+    "terraforged:aspen_tree_1": {
+      "weight": 3
+    },
     "terraforged:aspen_tree_2": {
       "weight": 2
     },
     "terraforged:aspen_tree_3": {
-      "weight": 4
-    },
-    "terraforged:aspen_tree_4": {
-      "weight": 3
-    },
-    "terraforged:aspen_tree_5": {
       "weight": 1
     }
   }

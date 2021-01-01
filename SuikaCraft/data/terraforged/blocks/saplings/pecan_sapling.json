@@ -1,0 +1,15 @@
+{
+  "type": "terraforged:sapling",
+  "sapling": "sap:pecan_sapling",
+  "normal": {
+    "terraforged:pecan_tree_1": {
+      "weight": 3
+    },
+    "terraforged:pecan_tree_2": {
+      "weight": 2
+    },
+    "terraforged:pecan_tree_3": {
+      "weight": 1
+    }
+  }
+}

@@ -1,5 +1,5 @@
 {
-  "type": "any",
+  "type": "tree",
   "name": "terraforged:andesite_boulder_1",
   "paths": [
     "terraforged:boulders/andesite/1"
