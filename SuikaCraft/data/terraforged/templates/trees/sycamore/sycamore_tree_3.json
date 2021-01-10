@@ -1,8 +1,8 @@
 {
   "type": "tree",
-  "name": "terraforged:eucalyptus_tree_3",
+  "name": "terraforged:sycamore_tree_3",
   "paths": [
-    "terraforged:trees/eucalyptus/tree/3"
+    "terraforged:trees/sycamore/tree/3"
   ],
   "config": {
     "extend_base": 3,
