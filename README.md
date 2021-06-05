@@ -34,6 +34,8 @@ Get all the hot tips and tricks here!
 
 Join *`play.suikacraft.com`* to play on SuikaCraft today!
 
-#### DISCORD
+#### COMMUNITY
 
 The one and only! Join the *[SuikaCraft Discord](https://discord.gg/0zdNEkQle7Qg9C1H)* to find the latest discussion on the resource pack and server or just to chat!
+
+We've set up a *[SuikaCraft Guilded](https://www.guilded.gg/i/Z2yNYwAk)* server as well! Come join the chat of the future!
