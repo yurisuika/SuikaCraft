@@ -1,0 +1,12 @@
+{
+  "type": "tree",
+  "name": "terraforged:yew_2",
+  "paths": [
+    "terraforged:trees/yew/2"
+  ],
+  "config": {
+    "extend_base": 3,
+    "check_bounds": true,
+    "update_post_paste": true
+  }
+}

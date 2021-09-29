@@ -1,0 +1,15 @@
+{
+  "type": "terraforged:sapling",
+  "sapling": "minecraft:dark_oak_sapling",
+  "normal": {
+    "terraforged:ebony_tree_1": {
+      "weight": 3
+    },
+    "terraforged:ebony_tree_2": {
+      "weight": 2
+    },
+    "terraforged:ebony_tree_3": {
+      "weight": 1
+    }
+  }
+}

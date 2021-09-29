@@ -1,0 +1,36 @@
+{
+  "match": [
+    [
+      "minecraft:spruce_log",
+      "minecraft:spruce_leaves"
+    ]
+  ],
+  "replace": {
+    "config": {
+      "feature": {
+        "config": {
+          "features": [
+          ]
+        },
+        "type": "terraforged:context_selector"
+      },
+      "decorator": {
+        "config": {
+          "placement": {
+            "config": {
+              "scale": 0.0,
+              "radius": 0,
+              "biome_fade": 0.0,
+              "density_scale": 0,
+              "density_variation": 0.0
+            },
+            "type": "terraforged:fast_poisson_surface"
+          },
+          "filter": "biome"
+        },
+        "type": "terraforged:filter"
+      }
+    },
+    "type": "minecraft:decorated"
+  }
+}

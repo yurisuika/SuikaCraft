@@ -1,0 +1,26 @@
+{
+  "type": "terraforged:sapling",
+  "sapling": "sap:redwood_sapling",
+  "normal": {
+    "terraforged:redwood_1": {
+      "weight": 3
+    },
+    "terraforged:redwood_2": {
+      "weight": 2
+    },
+    "terraforged:redwood_3": {
+      "weight": 1
+    }
+  },
+  "giant": {
+    "terraforged:redwood_1": {
+      "weight": 1
+    },
+    "terraforged:redwood_2": {
+      "weight": 2
+    },
+    "terraforged:redwood_3": {
+      "weight": 3
+    }
+  }
+}

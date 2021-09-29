@@ -1,0 +1,26 @@
+{
+  "type": "terraforged:sapling",
+  "sapling": "minecraft:spruce_sapling",
+  "normal": {
+    "terraforged:spruce_1": {
+      "weight": 3
+    },
+    "terraforged:spruce_2": {
+      "weight": 2
+    },
+    "terraforged:spruce_3": {
+      "weight": 1
+    }
+  },
+  "giant": {
+    "terraforged:spruce_1": {
+      "weight": 1
+    },
+    "terraforged:spruce_2": {
+      "weight": 2
+    },
+    "terraforged:spruce_3": {
+      "weight": 3
+    }
+  }
+}

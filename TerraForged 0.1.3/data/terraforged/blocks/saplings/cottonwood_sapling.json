@@ -1,0 +1,15 @@
+{
+  "type": "terraforged:sapling",
+  "sapling": "sap:cottonwood_sapling",
+  "normal": {
+    "terraforged:cottonwood_tree_1": {
+      "weight": 3
+    },
+    "terraforged:cottonwood_tree_2": {
+      "weight": 2
+    },
+    "terraforged:cottonwood_tree_3": {
+      "weight": 1
+    }
+  }
+}

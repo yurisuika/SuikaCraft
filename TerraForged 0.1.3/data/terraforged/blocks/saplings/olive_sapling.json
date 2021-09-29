@@ -1,0 +1,15 @@
+{
+  "type": "terraforged:sapling",
+  "sapling": "sap:olive_sapling",
+  "normal": {
+    "terraforged:olive_tree_1": {
+      "weight": 3
+    },
+    "terraforged:olive_tree_2": {
+      "weight": 2
+    },
+    "terraforged:olive_tree_3": {
+      "weight": 1
+    }
+  }
+}

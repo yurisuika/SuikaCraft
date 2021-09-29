@@ -1,0 +1,32 @@
+{
+  "biomes": [
+    "minecraft:mushroom_fields"
+  ],
+  "match": [
+    [
+      "minecraft:red_mushroom"
+    ]
+  ],
+  "before": {
+    "name": "minecraft:decorated",
+    "config": {
+      "feature": {
+        "name": "terraforged:context_selector",
+        "config": {
+          "features": [
+          ]
+        }
+      },
+      "decorator": {
+        "name": "terraforged:poisson_surface",
+        "config": {
+          "radius": 10,
+          "biome_fade": 0.25,
+          "density_noise_scale": 300,
+          "density_noise_min": 0,
+          "density_noise_max": 2.5
+        }
+      }
+    }
+  }
+}

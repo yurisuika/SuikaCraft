@@ -1,0 +1,26 @@
+{
+  "type": "terraforged:sapling",
+  "sapling": "minecraft:birch_sapling",
+  "normal": {
+    "terraforged:birch_1": {
+      "weight": 3
+    },
+    "terraforged:birch_2": {
+      "weight": 2
+    },
+    "terraforged:birch_3": {
+      "weight": 1
+    }
+  },
+  "giant": {
+    "terraforged:birch_1": {
+      "weight": 1
+    },
+    "terraforged:birch_2": {
+      "weight": 2
+    },
+    "terraforged:birch_3": {
+      "weight": 3
+    }
+  }
+}

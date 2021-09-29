@@ -1,0 +1,15 @@
+{
+  "type": "terraforged:sapling",
+  "sapling": "sap:elm_sapling",
+  "normal": {
+    "terraforged:elm_tree_1": {
+      "weight": 3
+    },
+    "terraforged:elm_tree_2": {
+      "weight": 2
+    },
+    "terraforged:elm_tree_3": {
+      "weight": 1
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "type": "terraforged:sapling",
+  "sapling": "sap:macadamia_sapling",
+  "normal": {
+    "terraforged:macadamia_tree_1": {
+      "weight": 3
+    },
+    "terraforged:macadamia_tree_2": {
+      "weight": 2
+    },
+    "terraforged:macadamia_tree_3": {
+      "weight": 1
+    }
+  }
+}

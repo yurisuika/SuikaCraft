@@ -1,0 +1,26 @@
+{
+  "type": "terraforged:sapling",
+  "sapling": "sap:fir_sapling",
+  "normal": {
+    "terraforged:fir_1": {
+      "weight": 3
+    },
+    "terraforged:fir_2": {
+      "weight": 2
+    },
+    "terraforged:fir_3": {
+      "weight": 1
+    }
+  },
+  "giant": {
+    "terraforged:fir_1": {
+      "weight": 1
+    },
+    "terraforged:fir_2": {
+      "weight": 2
+    },
+    "terraforged:fir_3": {
+      "weight": 3
+    }
+  }
+}

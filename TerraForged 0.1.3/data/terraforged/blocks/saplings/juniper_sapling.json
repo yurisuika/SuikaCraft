@@ -1,0 +1,15 @@
+{
+  "type": "terraforged:sapling",
+  "sapling": "sap:juniper_sapling",
+  "normal": {
+    "terraforged:juniper_tree_1": {
+      "weight": 3
+    },
+    "terraforged:juniper_tree_2": {
+      "weight": 2
+    },
+    "terraforged:juniper_tree_3": {
+      "weight": 1
+    }
+  }
+}

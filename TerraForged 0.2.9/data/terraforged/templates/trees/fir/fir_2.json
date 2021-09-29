@@ -1,0 +1,12 @@
+{
+  "type": "tree",
+  "name": "terraforged:fir_2",
+  "paths": [
+    "terraforged:trees/fir/2"
+  ],
+  "config": {
+    "extend_base": 3,
+    "check_bounds": true,
+    "update_post_paste": true
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "biomes": [
+    "minecraft:taiga",
+    "minecraft:taiga_hills",
+    "minecraft:taiga_mountains",
+    "terraforged:taiga_scrub",
+    "terraforged:fir_forest",
+    "minecraft:snowy_taiga",
+    "minecraft:snowy_taiga_hills",
+    "minecraft:snowy_taiga_mountains",
+    "terraforged:snowy_taiga_scrub",
+    "terraforged:snowy_fir_forest"
+  ],
+  "match": [
+    [
+      "minecraft:grass"
+    ]
+  ],
+"before": {
+  "name": "minecraft:decorated",
+  "config": {
+    "feature": {
+      "name": "terraforged:context_selector",
+      "config": {
+        "features": [
+          {
+            "feature": {
+              "name": "terraforged:template",
+              "config": {
+                "template": "terraforged:stone_boulder_1"
+              }
+            },
+            "context": {
+              "chance": 0.5,
+              "elevation": {
+                "from": 0.2,
+                "to": 0.0
+              },
+              "biome": {
+                "from": 0,
+                "to": 0.2
+              }
+            }
+          },
+          {
+            "feature": {
+              "name": "terraforged:template",
+              "config": {
+                "template": "terraforged:granite_boulder_1"
+              }
+            },
+            "context": {
+              "chance": 0.5,
+              "elevation": {
+                "from": 0.2,
+                "to": 0.0
+              },
+              "biome": {
+                "from": 0,
+                "to": 0.2
+              }
+            }
+          },
+          {
+            "feature": {
+              "name": "terraforged:template",
+              "config": {
+                "template": "terraforged:andesite_boulder_1"
+              }
+            },
+            "context": {
+              "chance": 0.5,
+              "elevation": {
+                "from": 0.2,
+                "to": 0.0
+              },
+              "biome": {
+                "from": 0,
+                "to": 0.2
+              }
+            }
+          },
+          {
+            "feature": {
+              "name": "terraforged:template",
+              "config": {
+                "template": "terraforged:diorite_boulder_1"
+              }
+            },
+            "context": {
+              "chance": 0.5,
+              "elevation": {
+                "from": 0.2,
+                "to": 0.0
+              },
+              "biome": {
+                "from": 0,
+                "to": 0.2
+              }
+            }
+          }
+        ]
+      }
+    },
+    "decorator": {
+      "name": "terraforged:poisson_surface",
+      "config": {
+        "radius": 25,
+        "biome_fade": 0.25,
+        "density_noise_scale": 300,
+        "density_noise_min": 0,
+        "density_noise_max": 2.5
+      }
+    }
+  }
+}
+}

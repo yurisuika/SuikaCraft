@@ -1,0 +1,11 @@
+{
+  "type": "tree",
+  "name": "terraforged:mahogany_tree_1",
+  "paths": [
+    "terraforged:trees/mahogany/tree/1"
+  ],
+  "config": {
+    "extend_base": 3,
+    "check_bounds": true
+  }
+}

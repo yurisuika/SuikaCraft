@@ -1,0 +1,24 @@
+{
+  "type": "tree",
+  "name": "terraforged:juniper_3",
+  "paths": [
+    "terraforged:trees/juniper/3"
+  ],
+  "config": {
+    "extend_base": 3,
+    "check_bounds": true,
+    "update_post_paste": true
+  },
+  "decorators": {
+    "default": {
+      "minecraft:beehive": {
+        "probability": 0.002
+      }
+    },
+    "minecraft:flower_forest": {
+      "minecraft:beehive": {
+        "probability": 0.02
+      }
+    }
+  }
+}

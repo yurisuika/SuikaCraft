@@ -1,0 +1,23 @@
+{
+  "biomes": [
+    "minecraft:badlands",
+    "minecraft:badlands_plateau",
+    "minecraft:eroded_badlands",
+    "minecraft:modified_badlands_plateau",
+    "minecraft:modified_wooded_badlands_plateau",
+    "minecraft:wooded_badlands_plateau",
+    "terraforged:bryce"
+  ],
+  "match": [
+    [
+      "minecraft:gold_ore",
+      "minecraft:ore"
+    ]
+  ],
+  "transform": {
+    "top_offset": 35,
+    "count": 27,
+    "maximum": 100,
+    "bottom_offset": 35
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "biomes": [
+    "minecraft:snowy_taiga"
+  ],
+  "match": [
+    [
+      "minecraft:grass"
+    ]
+  ],
+  "before": {
+    "name": "minecraft:decorated",
+    "config": {
+      "feature": {
+        "name": "terraforged:context_selector",
+        "config": {
+          "features": [
+            {
+              "feature": {
+                "name": "terraforged:template",
+                "config": {
+                  "template": "terraforged:fir_tree_1"
+                }
+              },
+              "context": {
+                "chance": 1.0,
+                "elevation": {
+                  "from": 0.5,
+                  "to": 0.0
+                },
+                "biome": {
+                  "from": 0,
+                  "to": 0.2
+                }
+              }
+            },
+            {
+              "feature": {
+                "name": "terraforged:template",
+                "config": {
+                  "template": "terraforged:fir_tree_2"
+                }
+              },
+              "context": {
+                "chance": 1.0,
+                "elevation": {
+                  "from": 0.4,
+                  "to": 0.0
+                },
+                "biome": {
+                  "from": 0,
+                  "to": 0.2
+                }
+              }
+            },
+            {
+              "feature": {
+                "name": "terraforged:template",
+                "config": {
+                  "template": "terraforged:fir_tree_3"
+                }
+              },
+              "context": {
+                "chance": 1.0,
+                "elevation": {
+                  "from": 0.3,
+                  "to": 0.0
+                },
+                "biome": {
+                  "from": 0,
+                  "to": 0.2
+                }
+              }
+            },
+            {
+              "feature": {
+                "name": "terraforged:template",
+                "config": {
+                  "template": "terraforged:larch_tree_1"
+                }
+              },
+              "context": {
+                "chance": 1.0,
+                "elevation": {
+                  "from": 0.4,
+                  "to": 0.0
+                },
+                "biome": {
+                  "from": 0,
+                  "to": 0.2
+                }
+              }
+            },
+            {
+              "feature": {
+                "name": "terraforged:template",
+                "config": {
+                  "template": "terraforged:larch_tree_2"
+                }
+              },
+              "context": {
+                "chance": 1.0,
+                "elevation": {
+                  "from": 0.3,
+                  "to": 0.0
+                },
+                "biome": {
+                  "from": 0,
+                  "to": 0.2
+                }
+              }
+            },
+            {
+              "feature": {
+                "name": "terraforged:template",
+                "config": {
+                  "template": "terraforged:larch_tree_3"
+                }
+              },
+              "context": {
+                "chance": 1.0,
+                "elevation": {
+                  "from": 0.2,
+                  "to": 0.0
+                },
+                "biome": {
+                  "from": 0,
+                  "to": 0.2
+                }
+              }
+            },
+            {
+              "feature": {
+                "name": "terraforged:template",
+                "config": {
+                  "template": "terraforged:spruce_tree_1"
+                }
+              },
+              "context": {
+                "chance": 1.0,
+                "elevation": {
+                  "from": 0.6,
+                  "to": 0.1
+                },
+                "biome": {
+                  "from": 0,
+                  "to": 0.2
+                }
+              }
+            },
+            {
+              "feature": {
+                "name": "terraforged:template",
+                "config": {
+                  "template": "terraforged:spruce_tree_2"
+                }
+              },
+              "context": {
+                "chance": 1.0,
+                "elevation": {
+                  "from": 0.5,
+                  "to": 0.1
+                },
+                "biome": {
+                  "from": 0,
+                  "to": 0.2
+                }
+              }
+            },
+            {
+              "feature": {
+                "name": "terraforged:template",
+                "config": {
+                  "template": "terraforged:spruce_tree_3"
+                }
+              },
+              "context": {
+                "chance": 1.0,
+                "elevation": {
+                  "from": 0.4,
+                  "to": 0.1
+                },
+                "biome": {
+                  "from": 0,
+                  "to": 0.2
+                }
+              }
+            }
+          ]
+        }
+      },
+      "decorator": {
+        "name": "terraforged:poisson_surface",
+        "config": {
+          "radius": 15,
+          "biome_fade": 0.0,
+          "density_noise_scale": 100,
+          "density_noise_min": -25.0,
+          "density_noise_max": 25.0
+        }
+      }
+    }
+  }
+}

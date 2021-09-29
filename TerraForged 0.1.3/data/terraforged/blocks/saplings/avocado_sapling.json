@@ -1,0 +1,15 @@
+{
+  "type": "terraforged:sapling",
+  "sapling": "sap:avocado_sapling",
+  "normal": {
+    "terraforged:avocado_tree_1": {
+      "weight": 3
+    },
+    "terraforged:avocado_tree_2": {
+      "weight": 2
+    },
+    "terraforged:avocado_tree_3": {
+      "weight": 1
+    }
+  }
+}

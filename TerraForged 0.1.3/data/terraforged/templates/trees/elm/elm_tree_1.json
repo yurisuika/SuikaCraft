@@ -1,0 +1,11 @@
+{
+  "type": "tree",
+  "name": "terraforged:elm_tree_1",
+  "paths": [
+    "terraforged:trees/elm/tree/1"
+  ],
+  "config": {
+    "extend_base": 3,
+    "check_bounds": true
+  }
+}
