@@ -1,28 +1,30 @@
-# [SuikaCraft](http://suikacraft.com)
+# <p align="center">SUIKACRAFT</p>
 
 Various things for the *[SuikaCraft](https://github.com/yurisuika/SuikaCraft)* Minecraft server!
 
 The Isabella texture packs have been moved to the *[Isabella](https://github.com/yurisuika/Isabella)* repository now.
 
-## DOWNLOADS
+---
 
-### Worlds
+## <p align="center">DOWNLOADS</p>
+
+### WORLDS
 
 World saves! Hurray!
 
-#### Sky
+#### SKY
 
 Our server spawn map! Last loaded using the Fabric version of Sky!
 
-#### Tree Grid
+#### TREE GRID
 
 Creative map for structure trees designed for vanilla and Sap blocks! Intended to be used for data in TerraForged, but don't let that stop you!
 
-### Data
+### DATA
 
 Data to enhance your computing experience!
 
-#### TerraForged
+#### TERRAFORGED
 
 Please note, this has not been worked on since January of 2021. The latest release of version is the last completed work in a complete start over of the project. This was last done in TerraForged 0.2.9, and so it may not be compatible with newer versions. It is far from complete.
 
@@ -38,15 +40,15 @@ For Sap 0.3.2 and TerraForged 0.2.9!
 
 For Sap 0.2.4 and TerraForged 0.1.3!
 
-## LINKS
+---
 
-Get all the hot tips and tricks here!
+## <p align="center">LINKS</p>
 
-#### SERVERS
+#### Servers
 
 Join *`play.suikacraft.com`* to play on SuikaCraft today!
 
-#### COMMUNITY
+#### Community
 
 The one and only! Join the *[SuikaCraft Discord](https://discord.gg/0zdNEkQle7Qg9C1H)* to find the latest discussion on the resource pack and server or just to chat!
 
