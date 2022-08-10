@@ -38,4 +38,4 @@ For Sap 0.2.4 and TerraForged 0.1.3 on Forge 1.15!
 
 #### Community
 
-The one and only! Join the *[SuikaCraft Discord](https://discord.gg/0zdNEkQle7Qg9C1H)* to find the latest discussion on the resource pack and server or just to chat!
+The one and only! Join the *[Discord](https://discord.gg/0zdNEkQle7Qg9C1H)* to find the latest discussion on the resource pack and server or just to chat!
